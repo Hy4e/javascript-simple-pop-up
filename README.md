@@ -2,7 +2,9 @@
 A simple pop-up in vanilla js.
 
 # What have I learned?
-Following this tutorial: https://www.youtube.com/watch?v=MBaw_6cPmAw&ab_channel=WebDevSimplified
+Following this tutorial: 
+https://www.youtube.com/watch?v=MBaw_6cPmAw&ab_channel=WebDevSimplified
+
 I learned:
 1. Another use of Flex box.
 2. &times; tag in html.
