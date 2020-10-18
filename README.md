@@ -13,5 +13,8 @@ I learned:
 5. Use of `left, right, top, bottom`
 6. Use of different `padding` and `margin`
 7. Use of `transform`, `transition`, `translate` and `scale`.
+7. Use of `max-width` for responsive needs.
 
 Thank you WebDevSimplified ♡
+
+![Preview](https://imgur.com/ioGD4rj.jpg)
